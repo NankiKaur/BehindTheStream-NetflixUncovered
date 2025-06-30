@@ -1,4 +1,4 @@
-# 🍿🎞️ Behind the Stream: Netflix Uncovered 📽️🎬📺🎦  
+# Behind the Stream: Netflix Uncovered 📽️
 
 ![Demo](./demo.jpg)  
 
